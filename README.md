@@ -6,4 +6,4 @@ E Commerce Website Using MERN
 ->`cd backend` \
 ->`npm run dev`\
 ->`cd ../frontend`\
-->`npm run dev`\
+->`npm run dev`
